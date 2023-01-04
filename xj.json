@@ -1,0 +1,10 @@
+{
+    "id": "https://xjzyapi.com",
+    "name": "xj",
+    "request": {
+        "url": "https://xjzyapi.com/api.php/provide/vod/at"
+    },
+    "response": {
+        "contentType": 0
+    }
+}
