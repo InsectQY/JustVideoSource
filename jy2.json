@@ -1,0 +1,10 @@
+{
+    "id": "https://jyzyapi.com",
+    "name": "金鹰",
+    "request": {
+        "url": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at"
+    },
+    "response": {
+        "contentType": 0
+    }
+}

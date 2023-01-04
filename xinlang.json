@@ -1,0 +1,10 @@
+{
+    "id": "https://api.xinlangapi.com/xinlangapi.php",
+    "name": "新浪",
+    "request": {
+        "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at"
+    },
+    "response": {
+        "contentType": 0
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "id": "https://sewozyapi.com",
+    "name": "色窝",
+    "request": {
+        "url": "https://sewozyapi.com/api.php/provide/vod/at"
+    },
+    "response": {
+        "contentType": 0
+    }
+}

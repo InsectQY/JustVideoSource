@@ -1,0 +1,10 @@
+{
+    "id": "https://api.wujinapi.me/api.php",
+    "name": "无尽",
+    "request": {
+        "url": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at"
+    },
+    "response": {
+        "contentType": 0
+    }
+}

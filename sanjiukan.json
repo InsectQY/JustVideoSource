@@ -1,0 +1,10 @@
+{
+    "id": "https://www.39kan.com/api.php",
+    "name": "39看",
+    "request": {
+        "url": "https://www.39kan.com/api.php/provide/vod/at"
+    },
+    "response": {
+        "contentType": 0
+    }
+}

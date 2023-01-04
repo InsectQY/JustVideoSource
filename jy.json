@@ -1,0 +1,10 @@
+{
+    "id": "https://jyzyapi.com",
+    "name": "金鹰",
+    "request": {
+        "url": "https://jyzyapi.com/provide/vod/at"
+    },
+    "response": {
+        "contentType": 0
+    }
+}

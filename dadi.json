@@ -1,0 +1,10 @@
+{
+    "id": "https://dadiapi.com/api.php",
+    "name": "大地",
+    "request": {
+        "url": "https://dadiapi.com/api.php"
+    },
+    "response": {
+        "contentType": 1
+    }
+}

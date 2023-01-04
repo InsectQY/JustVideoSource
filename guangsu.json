@@ -1,0 +1,10 @@
+{
+    "id": "https://api.guangsuapi.com/api.phpw",
+    "name": "光速",
+    "request": {
+        "url": "https://api.guangsuapi.com/api.php/provide/vod/at"
+    },
+    "response": {
+        "contentType": 0
+    }
+}

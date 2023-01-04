@@ -1,0 +1,10 @@
+{
+    "id": "https://sdzyapi.com/api.php",
+    "name": "闪电",
+    "request": {
+        "url": "https://sdzyapi.com/api.php/provide/vod/at"
+    },
+    "response": {
+        "contentType": 0
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "id": "https://collect.wolongzyw.com",
+    "name": "卧龙",
+    "request": {
+        "url": "https://collect.wolongzyw.com/api.php/wlseaxml/vod/at"
+    },
+    "response": {
+        "contentType": 0
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "id": "https://www.mbomovie.com/api.php",
+    "name": "mbomovie",
+    "request": {
+        "url": "https://www.mbomovie.com/api.php/provide/vod/at"
+    },
+    "response": {
+        "contentType": 0
+    }
+}

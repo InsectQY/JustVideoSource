@@ -1,0 +1,10 @@
+{
+    "id": "https://api.ukuapi.com/api.php",
+    "name": "U酷",
+    "request": {
+        "url": "https://api.ukuapi.com/api.php/provide/vod/at"
+    },
+    "response": {
+        "contentType": 0
+    }
+}

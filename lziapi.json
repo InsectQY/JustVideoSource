@@ -1,0 +1,10 @@
+{
+    "id": "https://cj.lziapi.com/api.php",
+    "name": "量子",
+    "request": {
+        "url": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at"
+    },
+    "response": {
+        "contentType": 0
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "id": "https://www.tangrenjie.tv/api.php",
+    "name": "唐人街",
+    "request": {
+        "url": "https://www.tangrenjie.tv/api.php/provide/vod/at"
+    },
+    "response": {
+        "contentType": 0
+    }
+}
