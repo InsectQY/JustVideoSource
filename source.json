@@ -1,23 +1,8 @@
 [
     {
-        "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/ck.json",
-        "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/ck.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/ck.json"
-    },
-    {
-        "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/dadi.json",
-        "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/dadi.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/dadi.json"
-    },
-    {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/feisuzyapi.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/feisuzyapi.json",
         "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/feisuzyapi.json"
-    },
-    {
-        "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/fhapi.json",
-        "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/fhapi.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/fhapi.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/fox.json",
@@ -45,11 +30,6 @@
         "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/kudian.json"
     },
     {
-        "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/lebo.json",
-        "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/lebo.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/lebo.json"
-    },
-    {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/lziapi.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/lziapi.json",
         "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/lziapi.json"
@@ -75,24 +55,9 @@
         "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sdzy2.json"
     },
     {
-        "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sewo.json",
-        "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sewo.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sewo.json"
-    },
-    {
-        "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/shayu.json",
-        "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/shayu.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/shayu.json"
-    },
-    {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tangrenjie.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tangrenjie.json",
         "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tangrenjie.json"
-    },
-    {
-        "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tantan.json",
-        "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tantan.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tantan.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tiankong.json",
@@ -125,6 +90,36 @@
         "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/xinlang.json"
     },
     {
+        "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/ck.json",
+        "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/ck.json",
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/ck.json"
+    },
+    {
+        "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/dadi.json",
+        "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/dadi.json",
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/dadi.json"
+    },
+    {
+        "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/fhapi.json",
+        "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/fhapi.json",
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/fhapi.json"
+    },
+    {
+        "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/lebo.json",
+        "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/lebo.json",
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/lebo.json"
+    },
+    {
+        "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sewo.json",
+        "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sewo.json",
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sewo.json"
+    },
+    {
+        "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/shayu.json",
+        "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/shayu.json",
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/shayu.json"
+    },
+    {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/xiuse.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/xiuse.json",
         "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/xiuse.json"
@@ -138,5 +133,10 @@
         "search": "",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/msn.json",
         "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/msn.json"
+    },
+    {
+        "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tantan.json",
+        "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tantan.json",
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tantan.json"
     }
 ]
