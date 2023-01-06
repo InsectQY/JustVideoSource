@@ -2,141 +2,169 @@
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/feisuzyapi.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/feisuzyapi.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/feisuzyapi.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/feisuzyapi.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/feisuzyapi.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/fox.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/fox.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/fox.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/fox.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/fox.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/guangsu.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/guangsu.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/guangsu.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/guangsu.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/guangsu.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/jy.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/jy.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/jy.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/jy.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/jy.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/jy2.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/jy2.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/jy2.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/jy2.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/jy2.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/kudian.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/kudian.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/kudian.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/kudian.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/kudian.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/lziapi.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/lziapi.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/lziapi.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/lziapi.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/lziapi.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/mbomovie.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/mbomovie.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/mbomovie.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/mbomovie.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/mbomovie.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sanjiukan.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sanjiukan.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sanjiukan.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sanjiukan.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sanjiukan.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sdzy.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sdzy.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sdzy.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sdzy.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sdzy.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sdzy2.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sdzy2.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sdzy2.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sdzy2.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sdzy2.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tangrenjie.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tangrenjie.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tangrenjie.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tangrenjie.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tangrenjie.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tiankong.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tiankong.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tiankong.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tiankong.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tiankong.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tom.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tom.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tom.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tom.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tom.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/ukuzy.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/ukuzy.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/ukuzy.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/ukuzy.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/ukuzy.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/wolong.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/wolong.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/wolong.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/wolong.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/wolong.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/wujin.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/wujin.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/wujin.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/wujin.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/wujin.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/xinlang.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/xinlang.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/xinlang.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/xinlang.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/xinlang.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/ck.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/ck.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/ck.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/ck.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/ck.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/dadi.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/dadi.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/dadi.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/dadi.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/dadi.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/fhapi.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/fhapi.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/fhapi.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/fhapi.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/fhapi.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/lebo.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/lebo.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/lebo.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/lebo.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/lebo.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sewo.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sewo.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sewo.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sewo.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/sewo.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/shayu.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/shayu.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/shayu.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/shayu.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/shayu.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/xiuse.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/xiuse.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/xiuse.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/xiuse.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/xiuse.json"
     },
     {
         "search": "",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/xj.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/xj.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/xj.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/xj.json"
     },
     {
         "search": "",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/msn.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/msn.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/msn.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/msn.json"
     },
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tantan.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tantan.json",
-        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tantan.json"
+        "list": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tantan.json",
+        "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tantan.json"
     }
 ]
