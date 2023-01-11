@@ -1,4 +1,6 @@
-[
+{
+"name":"官方",
+"sources":[
     {
         "search": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/feisuzyapi.json",
         "category": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/feisuzyapi.json",
@@ -168,3 +170,5 @@
         "detail": "https://cdn.jsdelivr.net/gh/InsectQY/JustVideoSource/tantan.json"
     }
 ]
+
+}
